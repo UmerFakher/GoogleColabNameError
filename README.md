@@ -59,3 +59,6 @@ This causes the issue so when you open any copy of some ipython notebook in Cola
 **This means you have to manually change the name variable in the notebook code to view it in Colab if it has been copied from another notebook through Save a copy to GitHub" (or even if you have used colab with that notebook at some point and rename it in the future, then the redudant name attribute in the meta-data will stay and cause errors)**
 
 To fix it Colab needs to make sure when you rename a notebook/save a copy to GitHub, it changes the meta-data name as well, or since that may not be possible if you rename it outside of Colab, then perhaps they should remove that redundant "name" attribute meta-data
+
+![image](https://user-images.githubusercontent.com/66469756/117189674-5d02c000-add6-11eb-814e-af5fe3a61cfc.png)
+
