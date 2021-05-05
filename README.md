@@ -54,6 +54,13 @@ This causes the issue so when you open any copy of some ipython notebook in Cola
 
 ## Here is an example of someone I helped fix this problem for https://github.com/googlecolab/colabtools/issues/1993
 
+Other related issues:
+https://github.com/googlecolab/colabtools/issues/1975#issuecomment-831883169
+
+https://github.com/googlecolab/colabtools/issues/1993
+
+https://github.com/googlecolab/colabtools/issues/1967
+
 ## Solution
 
 **This means you have to manually change the name variable in the notebook code to view it in Colab if it has been copied from another notebook through Save a copy to GitHub" (or even if you have used colab with that notebook at some point and rename it in the future, then the redudant name attribute in the meta-data will stay and cause errors)**
