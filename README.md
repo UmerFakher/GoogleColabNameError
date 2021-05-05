@@ -1,6 +1,5 @@
 # GoogleColabNameError
-This is to test an error found in Google Colab https://github.com/googlecolab/colabtools.
-
+This is to test an error found in Google Colab https://github.com/googlecolab/colabtools. Colab Notebook Meta-data Name attribute error.
 
 
 * Original Notebook: https://github.com/UmerFakher/GoogleColabNameError/blob/main/Original.ipynb
